@@ -1,6 +1,3 @@
-import org.gradle.kotlin.dsl.dependencies
-import org.gradle.kotlin.dsl.kotlin
-
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
